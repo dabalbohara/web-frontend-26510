@@ -5,7 +5,7 @@
 
 ## 班のメンバー
 
-- A ヘッダー：25636
-- B メイン：26511
-- B メイン（2人目）：26548
+- A ヘッダー：25636 https://github.com/26536-hub/web-frontend-26536.git
+- B メイン：26548 https://github.com/yeyint0o/web-frontend-26548.git
+- B メイン（2人目）:267511https://github.com/tankistudent123-glitch/web-frontend-26511.git
 - C フッター：26510（自分）
