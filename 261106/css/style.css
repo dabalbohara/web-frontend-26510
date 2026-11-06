@@ -40,7 +40,7 @@ body {
 
 /* ===== メインビジュアル ===== */
 .hero {
-  width: 1100px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 64px 24px;
   text-align: center;
