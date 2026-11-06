@@ -78,13 +78,13 @@ body {
   padding: 40px 16px;
 }
 
-.newsList {
+.news-List {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.newsList-item {
+.news-List__item {
   display: flex;
   gap: 16px;
   padding: 12px 0;
